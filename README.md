@@ -37,7 +37,7 @@ SatelliteOrbitSimulator:
    - Aerospace Toolbox  
    - App Designer
   
-2. **IMPORTANT**
+2. **Important**
    - The TLE files folder is used for the preset constellations, it has to be in the same folder as the app.
   
 ## Running
