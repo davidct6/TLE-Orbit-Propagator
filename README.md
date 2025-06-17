@@ -19,6 +19,11 @@ This project is an interactive MATLAB-based simulator designed to visualize and 
 This tool demonstrates the integration of orbital mechanics, satellite communications theory, and MATLAB’s Aerospace Toolbox in an educational and engineering context.
 
 ---
+## Demo video
+Here I add a youtube video demonstrating the use of the GUI and the embedded viewer.
+https://youtu.be/cYV2-kcsaMk
+
+---
 
 ## 📂 Project Structure
 SatelliteOrbitSimulator:
