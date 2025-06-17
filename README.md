@@ -21,15 +21,14 @@ This tool demonstrates the integration of orbital mechanics, satellite communica
 ---
 
 ## 📂 Project Structure
-SatelliteOrbitSimulator/
-│
-├── tle_files/ # Folder with predefined TLE files
-├── SatelliteApp.mlapp # Main GUI App (App Designer)
-├── orbitPropagator.m # Core orbit propagation and visualization script
-├── computeLinkBudget.m # Static link budget calculator
-├── computeSNRTimeSeries.m # Dynamic SNR time series calculator
-├── Satellite Orbit Simulator - Final project - David Cerezo.pdf # Full project report
-├── README.md # This file
+SatelliteOrbitSimulator:
+
+- tle_files/ # Folder with predefined TLE files
+- SatelliteApp.mlapp # Main GUI App (App Designer)
+- orbitPropagator.m # Core orbit propagation and visualization script
+- computeLinkBudget.m # Static link budget calculator
+- computeSNRTimeSeries.m # Dynamic SNR time series calculator
+- Satellite Orbit Simulator - Final project - David Cerezo.pdf # Full project report
 
 ## 🚀 Installation
 
