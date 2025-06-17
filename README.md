@@ -44,4 +44,4 @@ SatelliteOrbitSimulator:
 Call the SatelliteApp.mlapp on your command terminal in matlab and you are ready to go.
 
 ## Future additions
-In the future I will add the different types of antennas as well as their radiation lobe view in 3D. Athmospheric scintillation and Rain/cloud attenuations.
+In the future I will add the different types of antennas as well as their radiation lobe view in 3D. Athmospheric scintillation and Rain/cloud attenuations. The feeder losses and the temperature related losses as well as Boltzmann constant loss are not yet taken into account.
